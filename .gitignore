@@ -1,0 +1,49 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+*.cbr
+*.rar
+downloads/
+resources/
+logos/
+temp/
+debug/
+logs/
+
+# Config files with sensitive data
+config.local.json
+.env
+.env.local
+
+# JSON data files (optional - uncomment if needed)
+# *.json
+
+# OS files
+Thumbs.db
+.DS_Store

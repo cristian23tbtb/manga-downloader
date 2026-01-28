@@ -1,0 +1,18 @@
+{
+    "timeout": 30,
+    "retry_attempts": 5,
+    "retry_delay": 2,
+    "delay_between_images": 0.1,
+    "delay_between_chapters": 0.5,
+    "delay_between_volumes": 1,
+    "min_file_size": 0,
+    "output_dir": "downloads",
+    "selenium_wait_time": 10,
+    "selenium_extra_wait": 2,
+    "parallel_tomos": 3,
+    "parallel_chapters": 2,
+    "parallel_images": 8,
+    "retry_failed_images": 5,
+    "force_redownload": false
+}
+
